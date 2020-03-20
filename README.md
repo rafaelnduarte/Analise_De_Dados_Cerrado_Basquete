@@ -18,5 +18,5 @@ O projeto foi feito em um formato que facilita a leitura por quem não tem famil
 
 
 <p align="center" >
-  <img src="data/rafaelnd_ds.png" >
+  <img src="rafaelnd_banner.png" width=70% >
 </p>
